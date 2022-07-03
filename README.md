@@ -14,9 +14,18 @@ In this project a school board has been notified that the 9th grade testing data
 #### Updated District Summary
 ![Updated District Summary](/Resources/new_district_summary.PNG)
 
-After updating the grades to NaN, we can see the summary was marginally affected. 
-- The Average Math Score decreased 1.1%.
+After updating the grades to NaN, we can see the summary was marginally affected. The greatest change was .3% difference from our original summary.
+- The Average Math Score decreased .1%.
 - The Average Reading Score stayed the same.
 - The % Passing Math decreaesed .2%
 - The % Passing Reading decreased .3%
 - The % Overall Passing decreased .1%
+
+- ### How is the school summary affected?
+
+#### Original School Summary
+![Old School Summary](/Resources/old_school_summary.PNG)
+
+#### Updated School Summary
+![Updated School Summary](/Resources/new_school_summary.PNG)
+
