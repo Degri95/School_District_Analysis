@@ -6,8 +6,12 @@ In this project a school board has been notified that the 9th grade testing data
 
 ## Results
 
-### How is the school district summary affected?
+- ### How is the school district summary affected?
 
+#### Original District Summary
+![Old district summary](/Resources/old_district_summary.PNG)
 
+#### Updated District Summary
+![Updated District Summary](/Resources/new_district_summary.PNG)
 
 
