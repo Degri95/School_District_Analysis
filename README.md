@@ -46,4 +46,14 @@ In the Thomas High School row we can see the changes in the data.
 #### Updated Top 5 Schools
 ![Updated Top 5 Schools](/Resources/new_top_5.PNG)
 
-Thomas High school was originally the second highest school when we sort the schools by "% Overall Passing". After updating the ninth grade math and reading scores to NaN, and getting Thomas High Schools grades by dividing by the updated student count we are able to compare the changes.
+Thomas High school was originally the second highest school when we sort the schools by "% Overall Passing". After updating our data and finding the adjusted values, we can analyze if our changes made an impact in perfomance relative to other schools.
+
+- Thomas High Schools still holds the second highest passing percentage.
+- The difference between Thomas High Schools(2nd) percentage and Griffin High School(3rd) has decreased to .3% from the original .35%
+- The difference between Thomas High Schools(2nd) percentage and Cabera High Schools(1st) has increased to .7% from the orginal .39%
+
+#### Original Bottom 5 Schools
+![Old Bottom 5 Schools](/Resources/old_bottom_5.PNG)
+
+![New Bottom 5 Schools](/Resources/new_bottom_5.PNG)
+
