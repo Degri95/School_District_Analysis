@@ -55,5 +55,21 @@ Thomas High school was originally the second highest school when we sort the sch
 #### Original Bottom 5 Schools
 ![Old Bottom 5 Schools](/Resources/old_bottom_5.PNG)
 
+#### Updated Bottom 5 Schools
 ![New Bottom 5 Schools](/Resources/new_bottom_5.PNG)
 
+Looking at the Bottom 5 schools we can see no metrics were impacted. All values remain the same.
+
+### Math and Reading Score by Grade
+
+#### Original Math Score by Grade
+![Original Math Score by grade](/Resources/old_math_scores_by_grade.PNG)
+
+#### Updated Math Score by Grade
+![Updated Math Shore by Grade](/Resources/new_math_score_by_grade.PNG)
+
+#### Original Reading Score by Grade
+![Original Reading Score by Grade](/Resources/old_reading_scores_by_grade.PNG)
+
+#### Updated Readin Score by Grade
+![Updated Reading Score by Grade](/Resources/new_reading_score_by_grade.PNG)
