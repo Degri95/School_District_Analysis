@@ -74,7 +74,7 @@ Looking at the Bottom 5 schools we can see no metrics were impacted. All values 
 #### Updated Readin Score by Grade
 ![Updated Reading Score by Grade](/Resources/new_reading_score_by_grade.PNG)
 
-The only changes in these DataFrames was the 9th grade Thomas High School scores were replaced with NaN.
+The only change in these DataFrames was the 9th grade Thomas High School scores were replaced with NaN.
 
 ### Scores by Spending Size
 
@@ -82,5 +82,8 @@ The only changes in these DataFrames was the 9th grade Thomas High School scores
 ![Original Scores by Spending Size](/Resources/old_spending_ranges.PNG)
 
 #### Updated Scores by Spending Size
-![Updated Scores by Spending Size]()
+![Updated Scores by Spending Size](/Resources/new_spending_ranges.PNG)
+
+
+
 
