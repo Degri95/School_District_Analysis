@@ -41,7 +41,7 @@ In the Thomas High School row we can see the changes in the data.
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
 #### Original Top 5 Schools
-![Old Top 5 Schools](/Resources/old_bottom_5.PNG)
+![Old Top 5 Schools](/Resources/old_top_5.PNG)
 
 #### Updated Top 5 Schools
 ![Updated Top 5 Schools](/Resources/new_top_5.PNG)
