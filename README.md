@@ -84,6 +84,12 @@ The only change in these DataFrames was the 9th grade Thomas High School scores 
 #### Updated Scores by Spending Size
 ![Updated Scores by Spending Size](/Resources/new_spending_ranges.PNG)
 
+Thomas High School falls in the $630-644 spending bin. Looking at the updated Scores by Spending size DataFrame we can see that no values changed. This dataframe was formatted to round decimals so there may be a very small change we're not seeing.
 
+### Scores by School Size
 
+#### Original Scores by School Size
+![Original Scores by School Size](/Resources/old_by_size.PNG)
 
+#### Updated Scores by School Size
+![Upated Scores by School Size](/Resources/new_by_size.PNG)
