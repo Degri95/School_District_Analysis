@@ -84,7 +84,7 @@ The only change in these DataFrames was the 9th grade Thomas High School scores 
 #### Updated Scores by Spending Size
 ![Updated Scores by Spending Size](/Resources/new_spending_ranges.PNG)
 
-Thomas High School falls in the $630-644 spending bin. Looking at the updated Scores by Spending size DataFrame we can see that no values changed. This dataframe was formatted to round decimals so there may be a very small change we're not seeing.
+Thomas High School falls in the $630-644 bin. Looking at the updated Scores by Spending size DataFrame we can see that no values changed. This DataFrame was formatted to round decimals so there may be a very small change we're not seeing.
 
 ### Scores by School Size
 
@@ -93,3 +93,13 @@ Thomas High School falls in the $630-644 spending bin. Looking at the updated Sc
 
 #### Updated Scores by School Size
 ![Upated Scores by School Size](/Resources/new_by_size.PNG)
+
+Thomas High School falls into the Medium bin. Updating the 9th Graders data in Thomas High School didn't cause any values to change in the updated DataFrame. This DataFrame was also formated to round decimals so there may be a very small change we're not seeing.
+
+### Scores by School Type
+
+#### Original Schools by School Type
+![Original Schools by School Type](/Resources/old_by_type.PNG)
+
+#### Updated Schools by School Type
+![Updated Schools by School Type](/Resources/new_by_type.PNG)
