@@ -21,6 +21,7 @@ After updating the grades to NaN, we can see the summary was marginally affected
 - The % Passing Reading decreased .3%
 - The % Overall Passing decreased .1%
 
+
 - ### How is the school summary affected?
 
 #### Original School Summary
@@ -29,3 +30,10 @@ After updating the grades to NaN, we can see the summary was marginally affected
 #### Updated School Summary
 ![Updated School Summary](/Resources/new_school_summary.PNG)
 
+In the Thomas High School row we can see the changes in the data.
+
+- The Average Math Score decreased .008%
+- The Average Reading Score increased .05%
+- The % Passing Math decreased .08%
+- The % Passing Reading decreased .29%
+= The % Overall Passing decreased .317%
