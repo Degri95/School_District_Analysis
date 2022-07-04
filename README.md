@@ -62,8 +62,8 @@ Looking at the Bottom 5 schools we can see no metrics were impacted. All values 
 
 ### Math and Reading Score by Grade
 
-#### Original Math Score by Grade       Updated Math Score by Grade
-![Original Math Score by grade](/Resources/old_math_scores_by_grade.PNG)![Updated Math Shore by Grade](/Resources/new_math_score_by_grade.PNG)
+#### Original Math Score by Grade 
+![Original Math Score by grade](/Resources/old_math_scores_by_grade.PNG)
 
 #### Updated Math Score by Grade
 ![Updated Math Shore by Grade](/Resources/new_math_score_by_grade.PNG)
@@ -73,3 +73,14 @@ Looking at the Bottom 5 schools we can see no metrics were impacted. All values 
 
 #### Updated Readin Score by Grade
 ![Updated Reading Score by Grade](/Resources/new_reading_score_by_grade.PNG)
+
+The only changes in these DataFrames was the 9th grade Thomas High School scores were replaced with NaN.
+
+### Scores by Spending Size
+
+#### Original Scores by Spending Size
+![Original Scores by Spending Size](/Resources/old_spending_ranges.PNG)
+
+#### Updated Scores by Spending Size
+![Updated Scores by Spending Size]()
+
