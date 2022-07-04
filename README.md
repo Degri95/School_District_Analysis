@@ -62,8 +62,8 @@ Looking at the Bottom 5 schools we can see no metrics were impacted. All values 
 
 ### Math and Reading Score by Grade
 
-#### Original Math Score by Grade
-![Original Math Score by grade](/Resources/old_math_scores_by_grade.PNG)
+#### Original Math Score by Grade #### Updated Math Score by Grade
+![Original Math Score by grade](/Resources/old_math_scores_by_grade.PNG)![Updated Math Shore by Grade](/Resources/new_math_score_by_grade.PNG)
 
 #### Updated Math Score by Grade
 ![Updated Math Shore by Grade](/Resources/new_math_score_by_grade.PNG)
