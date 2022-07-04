@@ -15,11 +15,11 @@ In this project a school board has been notified that the 9th grade testing data
 ![Updated District Summary](/Resources/new_district_summary.PNG)
 
 After updating the grades to NaN, we can see the summary was marginally affected. The greatest change was .3% difference from our original summary.
-- The Average Math Score decreased .1%.
-- The Average Reading Score stayed the same.
-- The % Passing Math decreaesed .2%
-- The % Passing Reading decreased .3%
-- The % Overall Passing decreased .1%
+    - The Average Math Score decreased .1%.
+    - The Average Reading Score stayed the same.
+    - The % Passing Math decreaesed .2%
+    - The % Passing Reading decreased .3%
+    - The % Overall Passing decreased .1%
 
 
 - ### How is the school summary affected?
@@ -32,8 +32,10 @@ After updating the grades to NaN, we can see the summary was marginally affected
 
 In the Thomas High School row we can see the changes in the data.
 
-- The Average Math Score decreased .008%
-- The Average Reading Score increased .05%
-- The % Passing Math decreased .08%
-- The % Passing Reading decreased .29%
-= The % Overall Passing decreased .317%
+    - The Average Math Score decreased .008%
+    - The Average Reading Score increased .05%
+    - The % Passing Math decreased .08%
+    - The % Passing Reading decreased .29%
+    - The % Overall Passing decreased .317%
+
+- # How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
