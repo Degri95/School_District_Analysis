@@ -4,6 +4,10 @@ Using Python with Pandas and Jupyter Notebook to analyze school data.
 ## Overview of the project
 In this project a school board has been notified that the 9th grade testing data for Thomas High School has evidence of academic dishonesty. Since we had already completed an analysis of the data, we were tasked with replacing all of the math and reading grades with [NaN](https://pandas.pydata.org/docs/user_guide/missing_data.html) (461 students in total). After replacing the the data we were asked to performing another analysis and comparing the overall changes.
 
+We were able change all the 9th Grade values to NaN by using a Numpy method using the following code.
+
+![NaN Code](/Resources/nan_code.PNG)
+
 ## Results
 
 ### How is the school district summary affected?
@@ -37,6 +41,10 @@ In the Thomas High School row we can see the changes in the data.
 - The % Passing Math decreased .08%
 - The % Passing Reading decreased .29%
 - The % Overall Passing decreased .317%
+
+We were able to update Thomas High Schools scores to the correct values by calculating the averages and percentages by using an updated student count for the school, without the 9th Grade values skewing the metrics.
+
+![THS student count without 9th Graders](/Resources/THS_count.PNG)
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
@@ -110,4 +118,4 @@ Thomas High School is a Charter school, so if metrics changed it would be in the
 - Any metrics that were affected by the replacement of Thomas High Schools 9th Grade scores were less than 1%
 - The only metrics that were visibly altered were the School District Summary, School Summary, Top 5 Schools, and Math and Reading Scores by Grade DataFrame. (Math and Reading Scores only displayed updated value of NaN)
 - Thomas High School almost dropped to third in the Top 5 Schools DataFrame. If the "% Overall Passing" column was .03% to .04% lower, Griffin Highschool would replace it as second.
-- By updating Thomas High Schools scores and averages by using their student count without the 9th graders we were able to keep our data unskewed. the changes made in the data values were marginal.
+- By updating Thomas High Schools scores and averages by using their student count without the 9th graders we were able to keep our data unskewed. the changes made in the data values were all marginal.
