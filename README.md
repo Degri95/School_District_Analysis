@@ -14,7 +14,7 @@ In this project a school board has been notified that the 9th grade testing data
 #### Updated District Summary
 ![Updated District Summary](/Resources/new_district_summary.PNG)
 
-After updating the grades to NaN, we can see the summary was marginally effected. The greatest change was .3% difference from our original summary.
+After updating the grades to NaN, we can see the summary was marginally affected. The greatest change was .3% difference from our original summary.
 - The Average Math Score decreased .1%.
 - The Average Reading Score stayed the same.
 - The % Passing Math decreaesed .2%
@@ -49,8 +49,8 @@ In the Thomas High School row we can see the changes in the data.
 Thomas High school was originally the second highest school when we sort the schools by "% Overall Passing". After updating our data and finding the adjusted values, we can analyze if our changes made an impact in perfomance relative to other schools.
 
 - Thomas High Schools still holds the second highest passing percentage.
-- The difference between Thomas High Schools(2nd) percentage and Griffin High School(3rd) has decreased to .3% from the original .35%
-- The difference between Thomas High Schools(2nd) percentage and Cabera High Schools(1st) has increased to .7% from the orginal .39%
+- The difference between Thomas High Schools (2nd) percentage and Griffin High School (3rd) has decreased to .3% from the original .35%
+- The difference between Thomas High Schools (2nd) percentage and Cabera High Schools (1st) has increased to .7% from the orginal .39%
 
 #### Original Bottom 5 Schools
 ![Old Bottom 5 Schools](/Resources/old_bottom_5.PNG)
@@ -84,7 +84,7 @@ The only change in these DataFrames was the 9th grade Thomas High School scores 
 #### Updated Scores by Spending Size
 ![Updated Scores by Spending Size](/Resources/new_spending_ranges.PNG)
 
-Thomas High School falls in the $630-644 bin. Looking at the updated Scores by Spending size DataFrame we can see that no values changed. This DataFrame was formatted to round decimals so there may be a very small change we're not seeing.
+Thomas High School falls in the $630-644 bin. Looking at the updated Scores by Spending size DataFrame we can see that no values changed. This DataFrame was formatted to round decimals, so there may be a very small change we're not seeing.
 
 ### Scores by School Size
 
@@ -94,7 +94,7 @@ Thomas High School falls in the $630-644 bin. Looking at the updated Scores by S
 #### Updated Scores by School Size
 ![Upated Scores by School Size](/Resources/new_by_size.PNG)
 
-Thomas High School falls into the Medium bin. Updating the 9th Graders data in Thomas High School didn't cause any values to change in the updated DataFrame. This DataFrame was also formated to round decimals so there may be a very small change we're not seeing.
+Thomas High School falls into the Medium bin. Updating the 9th Graders data in Thomas High School didn't cause any values to change in the updated DataFrame. This DataFrame was also formated to round decimals, so there may be a very small change we're not seeing.
 
 ### Scores by School Type
 
@@ -103,3 +103,11 @@ Thomas High School falls into the Medium bin. Updating the 9th Graders data in T
 
 #### Updated Schools by School Type
 ![Updated Schools by School Type](/Resources/new_by_type.PNG)
+
+Thomas High School is a Charter school, so if metrics changed it would be in the Charter row. Comparing the two DataFrames we can see that no data has changed. This DataFrame had formatting to round decimals as well. So there may be a small change we're not seeing.
+
+## Summary 
+- Any metrics that were affected by the replacement of Thomas High Schools 9th Grade scores were less than 1%
+- The only metrics that were visibly altered were the School District Summary, School Summary, Top 5 Schools, and Math and Reading Scores by Grade DataFrame. (Math and Reading Scores only displayed updated value of NaN)
+- Thomas High School almost dropped to third in the Top 5 Schools DataFrame. If the "% Overall Passing" column was .03% to .04% lower, Griffin Highschool would replace it as second.
+- By updating Thomas High Schools scores and averages by using their student count without the 9th graders we were able to keep our data unskewed. the changes made in the data values were marginal.
