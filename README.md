@@ -2,7 +2,7 @@
 Using Python with Pandas and Jupyter Notebook to analyze school data.
 
 ## Overview of the project
-In this project a school board has been notified that the 9th grade testing data for Thomas High School has evidence of academic dishonesty. Since we had already completed an analysis of the data, we were tasked with replacing all of the math and reading grades with [NaN](https://pandas.pydata.org/docs/user_guide/missing_data.html) (461 students in total). After replacing the the data we were asked to performing another analysis and comparing the overall changes.
+In this project a school board has been notified that the 9th grade testing data for Thomas High School has evidence of academic dishonesty. Since we had already completed an analysis of the data, we were tasked with replacing all of the math and reading grades of the affected students with [NaN](https://pandas.pydata.org/docs/user_guide/missing_data.html) (461 students in total). After replacing the the data we were asked to performing another analysis and comparing the overall changes.
 
 We were able change all the 9th Grade values to NaN by using a Numpy method with the following code.
 
@@ -42,7 +42,7 @@ In the Thomas High School row we can see the changes in the data.
 - The % Passing Reading decreased .29%
 - The % Overall Passing decreased .317%
 
-We were able to update Thomas High Schools scores to the correct values by calculating the averages and percentages by using an updated student count for the school, without the 9th Grade values skewing the metrics.
+We were able to update Thomas High Schools scores to the correct values by calculating the averages and percentages by using an updated student count for the school, without the 9th Grade student count skewing the metrics.
 
 ![THS student count without 9th Graders](/Resources/THS_count.PNG)
 
@@ -58,7 +58,7 @@ Thomas High school was originally the second highest school when we sort the sch
 
 - Thomas High Schools still holds the second highest passing percentage.
 - The difference between Thomas High Schools (2nd) percentage and Griffin High School (3rd) has decreased to .3% from the original .35%
-- The difference between Thomas High Schools (2nd) percentage and Cabera High Schools (1st) has increased to .7% from the orginal .39%
+- The difference between Thomas High Schools (2nd) percentage and Cabera High Schools (1st) has increased to .7% from the original .39%
 
 #### Original Bottom 5 Schools
 ![Old Bottom 5 Schools](/Resources/old_bottom_5.PNG)
