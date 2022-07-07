@@ -82,7 +82,7 @@ Looking at the Bottom 5 schools we can see no metrics were impacted. All values 
 #### Updated Readin Score by Grade
 ![Updated Reading Score by Grade](/Resources/new_reading_score_by_grade.PNG)
 
-The only change in these DataFrames was the 9th grade Thomas High School scores were replaced with NaN.
+The only change in these DataFrames were the 9th grade Thomas High School scores were replaced with NaN.
 
 ### Scores by Spending Size
 
@@ -92,7 +92,7 @@ The only change in these DataFrames was the 9th grade Thomas High School scores 
 #### Updated Scores by Spending Size
 ![Updated Scores by Spending Size](/Resources/new_spending_ranges.PNG)
 
-Thomas High School falls in the $630-644 bin. Looking at the updated Scores by Spending size DataFrame we can see that no values changed. This DataFrame was formatted to round decimals, so there may be a very small change we're not seeing.
+Thomas High School falls in the $630-644 bin. Looking at the updated Scores by Spending size DataFrame, we can see that no values changed. This DataFrame was formatted to round decimals, so there may be a very small change we're not seeing.
 
 ### Scores by School Size
 
@@ -112,7 +112,7 @@ Thomas High School falls into the Medium bin. Updating the 9th Graders data in T
 #### Updated Schools by School Type
 ![Updated Schools by School Type](/Resources/new_by_type.PNG)
 
-Thomas High School is a Charter school, so if metrics changed it would be in the Charter row. Comparing the two DataFrames we can see that no data has changed. This DataFrame had formatting to round decimals as well. So there may be a small change we're not seeing.
+Thomas High School is a Charter school. So if data was changed, it would occur in the Charter row. Comparing the two DataFrames we can see that no data has changed. This DataFrame had formatting to round decimals as well. So there may be a small change we're not seeing.
 
 ## Summary 
 - Any metrics that were affected by the replacement of Thomas High Schools 9th Grade scores were less than 1%
